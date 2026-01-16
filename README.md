@@ -1,15 +1,36 @@
-HEAD
-# Video-Library-Frontend
-# React + Vite
+Video Library is the frontend of a full-stack video management application that allows users to log in and browse video content through a clean and responsive interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+https://video-library-frontend-eta.vercel.app/
 
-Currently, two official plugins are available:
+## Tech Stack
+- React.js
+- JavaScript (ES6)
+- HTML
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User authentication UI (Login / Logout)
+- Protected routes on frontend
+- Browse video content
+- Responsive and user-friendly design
+- Integrated with backend REST APIs
 
-## Expanding the ESLint configuration
+## Backend Repository
+https://github.com/Tannu-2001/video-library-backend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
- a63a8d6 (Initial commit - frontend)
+## Run Locally
+1. Clone the repository  
+2. Run npm install  
+3. Run npm start  
+4. Open http://localhost:3000 in the browser
+
+## What I Learned
+- React routing and protected routes
+- API integration with backend
+- State management and UI handling
+
+## Future Improvements
+- Video upload UI
+- User playlists
+- Watch Later feature
