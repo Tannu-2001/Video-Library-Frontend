@@ -34,3 +34,14 @@ https://github.com/Tannu-2001/video-library-backend
 - Video upload UI
 - User playlists
 - Watch Later feature
+
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/videohome.png)
+### User Dashboard
+![User Dashboard](./screenshots/videouserdash.png)
+### Admin Dashboard
+![Admin Dashboard](./screenshots/videoadmindash.png)
+### Add Videos
+![Add Videos](./screenshots/videoadd.png)
